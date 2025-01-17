@@ -49,12 +49,9 @@
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=#000000" />&nbsp;
   </a>
   <a href="mailto:jmjung1997@soongsil.ac.kr">
-    <img src="https://img.shields.io/badge/jmjung1997@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/jmjung1997@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
   </a>
-  <a href="https://blog.naver.com/jmjung1997">
-    <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
-  </a>
-  <a href="https://www.instagram.com/jmjung1997/">
+  <a href="https://www.instagram.com/j.fun0528/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp;
   </a>
 </div>
