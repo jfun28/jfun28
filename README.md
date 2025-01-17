@@ -43,8 +43,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@jmjung1997">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
+  <a href="https://velog.io/@jmjung1997](https://hound0528.tistory.com/)">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=tistory&logoColor=#000000" />&nbsp;
   </a>
   <a href="mailto:jmjung1997@soongsil.ac.kr">
     <img src="https://img.shields.io/badge/jmjung1997@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
