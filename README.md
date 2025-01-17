@@ -1,4 +1,6 @@
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjung1997&layout=compact)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />&nbsp;
