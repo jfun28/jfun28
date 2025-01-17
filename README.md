@@ -52,17 +52,18 @@
   <p><strong>Big leader academy</strong> <code>(06/2022 ~ 08/2022)</code> (changwon, Korea)</p>
 
   ## ADDITIONAL SKILLS
+  <h3>Technical Skills</h3>
   <p>
-    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 
   </div>
