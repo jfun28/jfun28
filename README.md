@@ -37,6 +37,7 @@
   <p>Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</p>
   
   ## Academic experience
+  <details>
   <ul style="text-align: left; display: inline-block;">
     <li>정재민,서한빛,고은영,이의종* (2023). "Infection rate calculation framework based on a hierarchical K-means clustering". 2025 한국소프트웨어공학 학술대회(KCSE025). </li>
     <li>정재민, 정경창, 고은영, 이의종* (2023). 감정 데이터를 활용한 딥러닝 기반 돈육가격 예측 연구 (Deep Learning based Pork Price Prediction using Sentimental Analysis). 한국정보기술학회논문지 21(12). 189-199. </li>
@@ -45,6 +46,7 @@
     <li>Kyungchang Jeong, Minji Kim, Gyuchan Cho, Hongseok Oh, Jaemin Jeong, Yeongyu Lee, Hanbit Seo, Dohyeon Yu, Hyeona Bae, Sang-Hwan Hyun, Euijong Lee*, "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine", In Proc. of the 18th IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024), Lisbon, Portugal, December 2024. (Accepted)</li>
     <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
   </ul>
+  </details>
   
 
 
