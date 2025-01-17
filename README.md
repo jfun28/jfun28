@@ -14,12 +14,16 @@
         <li><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</li>
       </ul>
     </li>
-    <li><strong>Objective:</strong> Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</li>
+    <li><strong>Objective:</strong></li>
+  </ul>
+  <p style="font-size: 18px; font-weight: bold; color: #3572A5;">
+    Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.
+  </p>
+  <ul style="list-style: none; text-align: left; display: inline-block;">
     <li><strong>Email:</strong> jmjung1997@gmail.com</li>
     <li><strong>Blog:</strong> <a href="https://hound0528.tistory.com/">Tistory</a></li>
   </ul>
 </div>
-
 
 <div align="center">
   <h3>Portfolio</h3>
@@ -31,11 +35,18 @@
 
 <div align="center">
   <h3>Technical Skills</h3>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li><strong>Languages:</strong> Python, NumPy, Pandas</li>
-    <li><strong>Frameworks:</strong> PyTorch, OpenCV</li>
-    <li><strong>Tools:</strong> Git, GitHub, Jupyter Notebook, Visual Studio Code</li>
-  </ul>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
 </div>
 
 <div align="center">
