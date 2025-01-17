@@ -46,10 +46,10 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://hound0528.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=#000000" />&nbsp;
+    <img src="https://img.shields.io/badge/Tistory-FBFBFBF?style=for-the-badge&logo=tistory&logoColor=#000000" />&nbsp;
   </a>
-  <a href="mailto:jmjung1997@soongsil.ac.kr">
-    <img src="https://img.shields.io/badge/jmjung1997@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp;
+  <a href="mailto:jmjung1997@gmail.com">
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jmjung1997@gmail.com)
   </a>
   <a href="https://www.instagram.com/j.fun0528/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp;
