@@ -52,11 +52,17 @@
 
 
   ## PORTFOLIO
+  <details>
+  <summary>Detail</summary> 
   <ul style="text-align: left; display: inline-block;">
     <li><strong>2024 데이터-AI를 활용한 물가 예측 경진대회:농산물 가격을 중심으로</strong> - Private score 상위 10% (2024.10)</li>
     <li><strong>2023년 캡스톤 디자인</strong> - 우수상 수상 (2023.11)</li>
     <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
+    <li><strong>정보처리기사/strong> - 기사 (2023.11)</li>
+    <li><strong>데이터 분석 준전문가/strong> - 준전문가 (2024.11)</li>
   </ul>
+  </details>
+  
 
   ## EDUCATION
   <p><strong>Master's Degree: Chungbuk National University </strong> <code>(03/2024 ~ 08/2025)</code> (Cheongju, Korea)</p>
