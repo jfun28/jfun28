@@ -60,6 +60,10 @@
 <summary>Publications & Conferences</summary>
 
 #### 2024
+- **KCSE 2023**
+  - "Infection rate calculation framework based on a hierarchical K-means clustering"
+  - 정재민, 서한빛, 고은영, 이의종*
+
 - **IEEE BIBM 2024** (Accepted)
   - "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine"
   - Kyungchang Jeong, Minji Kim, Gyuchan Cho, *et al.*
@@ -78,9 +82,6 @@
   - "뉴스 감성 분석을 이용한 돼지고기 가격변화 예측 모델"
   - 정재민, 서한빛, 고은영, 이의종*
 
-- **KCSE 2023**
-  - "Infection rate calculation framework based on a hierarchical K-means clustering"
-  - 정재민, 서한빛, 고은영, 이의종*
 </details>
 
 
