@@ -8,12 +8,18 @@
 <div align="center">
   <h3>About Me</h3>
   <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li><strong>Education:</strong> Chungbuk National University (2021 ~ Present)<br><em>Major: Computer Science and Engineering</em></li>
+    <li><strong>Education:</strong>
+      <ul>
+        <li><em>Master's Degree:</em> Computer Science and Engineering, Chungbuk National University (2024.3 ~ 2025.8)</li>
+        <li><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</li>
+      </ul>
+    </li>
     <li><strong>Objective:</strong> Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</li>
     <li><strong>Email:</strong> jmjung1997@gmail.com</li>
     <li><strong>Blog:</strong> <a href="https://hound0528.tistory.com/">Tistory</a></li>
   </ul>
 </div>
+
 
 <div align="center">
   <h3>Portfolio</h3>
