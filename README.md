@@ -54,17 +54,34 @@
   </ul>
   </details>
       
-   ## Academic experience
-  <details>
-  <summary>Detail</summary> 
-  <ul style="text-align: left; display: inline-block;">
-    <li>정재민,서한빛,고은영,이의종* (2023). Infection rate calculation framework based on a hierarchical K-means clustering. 2025 한국소프트웨어공학 학술대회(KCSE025). </li>
-    <li>정재민, 정경창, 고은영, 이의종* (2023). 감정 데이터를 활용한 딥러닝 기반 돈육가격 예측 연구 (Deep Learning based Pork Price Prediction using Sentimental Analysis). 한국정보기술학회논문지 21(12). 189-199. </li>
-    <li>정재민,서한빛,고은영,이의종* (2023). 뉴스 감성 분석을 이용한 돼지고기 가격변화 예측 모델. 2023 한국컴퓨터 종합학술대회 (KCC2023). </li>
-    <li>Kyungchang Jeong†, Hongseok Oh†, Yeongyu Lee, Hanbit Seo, Gyuchan Cho, Jaemin Jeong, Gyutae Park, Jungseok Choi, Young-Duk Seo, Ji-Hoon Jeong*, and Euijong Lee*, <strong>IoT and AI Systems for Enhancing Bee Colony Strength in Precision Beekeeping: A Survey and Future Research Directions</strong, IEEE Internet of Things Journal </li>
-    <li>Kyungchang Jeong, Minji Kim, Gyuchan Cho, Hongseok Oh, Jaemin Jeong, Yeongyu Lee, Hanbit Seo, Dohyeon Yu, Hyeona Bae, Sang-Hwan Hyun, Euijong Lee*,  <strong>A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine </strong>strong>, In Proc. of the 18th IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024), Lisbon, Portugal, December 2024. (Accepted)</li>
-  </ul>
-  </details>
+  ## Academic Experience
+
+<details>
+<summary>Publications & Conferences</summary>
+
+#### 2024
+- **IEEE BIBM 2024** (Accepted)
+  - "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine"
+  - Kyungchang Jeong, Minji Kim, Gyuchan Cho, *et al.*
+
+#### 2023
+- **IEEE Internet of Things Journal**
+  - "IoT and AI Systems for Enhancing Bee Colony Strength in Precision Beekeeping: A Survey and Future Research Directions"
+  - Kyungchang Jeong†, Hongseok Oh†, *et al.*
+
+- **한국정보기술학회논문지 21(12)**
+  - "감정 데이터를 활용한 딥러닝 기반 돈육가격 예측 연구"
+  - 정재민, 정경창, 고은영, 이의종*
+  - pp. 189-199
+
+- **KCC 2023**
+  - "뉴스 감성 분석을 이용한 돼지고기 가격변화 예측 모델"
+  - 정재민, 서한빛, 고은영, 이의종*
+
+- **KCSE 2023**
+  - "Infection rate calculation framework based on a hierarchical K-means clustering"
+  - 정재민, 서한빛, 고은영, 이의종*
+</details>
 
 
   ## ADDITIONAL SKILLS
