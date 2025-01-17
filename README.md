@@ -36,13 +36,12 @@
   ## OBJECTIVE
   <p>Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</p>
 
-  ## WORK EXPERIENCE
-  <p><strong>Pixeleye Co., Ltd.</strong> (Intern) <code>(06/24/2024 ~ 07/19/2024)</code></p>
+
 
   ## PORTFOLIO
   <ul style="text-align: left; display: inline-block;">
-    <li><strong>SW중심대학사업단 AI 오픈소스 전문프로젝트</strong> - 영어발표회 최우수상 수상 (2024.06)</li>
-    <li><strong>2024 새싹 해커톤</strong> - 본선 진출 (서울시, 서울경제진흥원, Google 주최) (2024.07)</li>
+    <li><strong>2023년 캡스톤 디자인</strong> - 우수상 수상 (2023.11)</li>
+    <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
     <li><strong>2024 AI 메이커톤 경진대회</strong> - 최우수상 수상 (충청북도 산업인공지능연구센터 주최) (2024.09)</li>
     <li><strong>2024 공개 SW 개발자대회</strong> - 본선 진출 및 우수작 선정 (과학기술정보통신부 주최, 정보통신산업진흥원 주관) (2024.11)</li>
   </ul>
