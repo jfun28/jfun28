@@ -26,7 +26,7 @@
     </a>
   </span>
   <span>
-    <a href="https://www.linkedin.com/in/jaemin-jeong">
+    <a href="[https://www.linkedin.com/in/jaemin-jeon](https://www.linkedin.com/in/jaemin-jeong-903606271/)g">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white"/>
     </a>
   </span>
@@ -59,6 +59,7 @@
 
 <details>
 <summary>Publications & Conferences</summary>
+- **2025 한국소프트웨어공학 학술대회(KCSE025)**-Infection rate calculation framework based on a hierarchical K-means clustering., 정재민,서한빛,고은영,이의종*.
 
 - **IEEE Internet of Things Journal** - "IoT and AI Systems for Enhancing Bee Colony Strength in Precision Beekeeping: A Survey and Future Research Directions", Kyungchang Jeong†, Hongseok Oh†, *et al.*
 
