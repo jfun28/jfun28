@@ -8,13 +8,13 @@
 <div align="center">
   <h3>About Me</h3>
   <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li><strong>Education:</strong>
+    <strong>Education:</strong>
       <ul>
         <li><em>Master's Degree:</em> Computer Science and Engineering, Chungbuk National University (2024.3 ~ 2025.8)</li>
         <li><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</li>
       </ul>
     </li>
-    <li><strong>Objective:</strong></li>
+   <strong>Objective:</strong>
   </ul>
   <p style="font-size: 18px; font-weight: bold; color: #3572A5;">
     Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.
