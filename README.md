@@ -7,30 +7,23 @@
 
 <div align="center">
   <h3>About Me</h3>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <strong>Education:</strong>
-      <ul>
-        <li><em>Master's Degree:</em> Computer Science and Engineering, Chungbuk National University (2024.3 ~ 2025.8)</li>
-        <li><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</li>
-      </ul>
-    </li>
-   <strong>Objective:</strong>
-  </ul>
+  <p><strong>Education:</strong></p>
+  <p><em>Master's Degree:</em> Computer Science and Engineering, Chungbuk National University (2024.3 ~ 2025.8)</p>
+  <p><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</p>
+
+  <h3>## Objective</h3>
   <p style="font-size: 18px; font-weight: bold; color: #3572A5;">
     Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.
   </p>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li><strong>Email:</strong> jmjung1997@gmail.com</li>
-    <li><strong>Blog:</strong> <a href="https://hound0528.tistory.com/">Tistory</a></li>
-  </ul>
+
+  <p><strong>Email:</strong> jmjung1997@gmail.com</p>
+  <p><strong>Blog:</strong> <a href="https://hound0528.tistory.com/">Tistory</a></p>
 </div>
 
 <div align="center">
   <h3>Portfolio</h3>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li><strong>AI Open Source Project:</strong> Presented in an international symposium (2024)</li>
-    <li><strong>Competitions:</strong> Participated in AI hackathons, securing top positions.</li>
-  </ul>
+  <p><strong>AI Open Source Project:</strong> Presented in an international symposium (2024)</p>
+  <p><strong>Competitions:</strong> Participated in AI hackathons, securing top positions.</p>
 </div>
 
 <div align="center">
