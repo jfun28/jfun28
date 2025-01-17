@@ -41,7 +41,6 @@
 <div align="center">
   <h3>GitHub Statistics</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmjung1997&layout=compact&theme=default&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jmjung1997&show_icons=true&theme=default&hide_border=true" width="45%"/>
 </div>
 
 <div align="center">
