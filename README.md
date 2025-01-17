@@ -35,15 +35,24 @@
 
   ## OBJECTIVE
   <p>Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</p>
-
+  
+  ## Academic experience
+  <ul style="text-align: left; display: inline-block;">
+    <li>정재민,서한빛,고은영,이의종* (2023). "Infection rate calculation framework based on a hierarchical K-means clustering". 2025 한국소프트웨어공학 학술대회(KCSE025). </li>
+    <li>정재민, 정경창, 고은영, 이의종* (2023). 감정 데이터를 활용한 딥러닝 기반 돈육가격 예측 연구 (Deep Learning based Pork Price Prediction using Sentimental Analysis). 한국정보기술학회논문지 21(12). 189-199. </li>
+    <li>정재민,서한빛,고은영,이의종* (2023). "뉴스 감성 분석을 이용한 돼지고기 가격변화 예측 모델". 2023 한국컴퓨터 종합학술대회 (KCC2023). </li>
+    <li>Kyungchang Jeong†, Hongseok Oh†, Yeongyu Lee, Hanbit Seo, Gyuchan Cho, Jaemin Jeong, Gyutae Park, Jungseok Choi, Young-Duk Seo, Ji-Hoon Jeong*, and Euijong Lee*, "IoT and AI Systems for Enhancing Bee Colony Strength in Precision Beekeeping: A Survey and Future Research Directions", IEEE Internet of Things Journal,  Accepted, 2024 (SCIE, Impact Factor in JCR 2023: 8.2, Journal Ranking in JCR 2023: 3.6%) </li>
+    <li>Kyungchang Jeong, Minji Kim, Gyuchan Cho, Hongseok Oh, Jaemin Jeong, Yeongyu Lee, Hanbit Seo, Dohyeon Yu, Hyeona Bae, Sang-Hwan Hyun, Euijong Lee*, "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine", In Proc. of the 18th IEEE International Conference on Bioinformatics and Biomedicine 2024 (IEEE BIBM 2024), Lisbon, Portugal, December 2024. (Accepted)</li>
+    <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
+  </ul>
+  
 
 
   ## PORTFOLIO
   <ul style="text-align: left; display: inline-block;">
+    <li><strong>2024 데이터-AI를 활용한 물가 예측 경진대회:농산물 가격을 중심으로</strong> - Private score 상위 10% (2024.10)</li>
     <li><strong>2023년 캡스톤 디자인</strong> - 우수상 수상 (2023.11)</li>
     <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
-    <li><strong>2024 AI 메이커톤 경진대회</strong> - 최우수상 수상 (충청북도 산업인공지능연구센터 주최) (2024.09)</li>
-    <li><strong>2024 공개 SW 개발자대회</strong> - 본선 진출 및 우수작 선정 (과학기술정보통신부 주최, 정보통신산업진흥원 주관) (2024.11)</li>
   </ul>
 
   ## EDUCATION
@@ -79,7 +88,7 @@
   </div>
 
   <!-- Footer -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
 </div>
