@@ -1,58 +1,85 @@
 <div align="center">
   <!-- Header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=50&section=header&text=&fontSize=0" width="100%"/>
-  <h2>Jaemin Jeong</h2>
-  <p><em>Exploring AI and Data Science</em></p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <br><br>
 
-<div align="center">
-  <h3>About Me</h3>
-  <p><strong>Education:</strong></p>
-  <p><em>Master's Degree:</em> Computer Science and Engineering, Chungbuk National University (2024.3 ~ 2025.8)</p>
-  <p><em>Bachelor's Degree:</em> Software Engineering, Chungbuk National University (2018.3 ~ 2024.2)</p>
+  <!-- Title Typing Effect -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jaemin+Jeong;Exploring+AI+and+Data+Science" alt="Typing SVG" /></a>
+  <br>
 
-  <h3>## Objective</h3>
-  <p style="font-size: 18px; font-weight: bold; color: #3572A5;">
-    Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.
-  </p>
+  <div align="center">  
+  <br>
+  <!-- Contact Info -->
+  <span>
+    <a href="https://github.com/jmjung1997">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="mailto:jmjung1997@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=Gmail&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://hound0528.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=plastic&logo=Tistory&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://www.linkedin.com/in/jaemin-jeong">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white"/>
+    </a>
+  </span>
 
-  <p><strong>Email:</strong> jmjung1997@gmail.com</p>
-  <p><strong>Blog:</strong> <a href="https://hound0528.tistory.com/">Tistory</a></p>
-</div>
+  <br><br>
 
-<div align="center">
-  <h3>Portfolio</h3>
-  <p><strong>AI Open Source Project:</strong> Presented in an international symposium (2024)</p>
-  <p><strong>Competitions:</strong> Participated in AI hackathons, securing top positions.</p>
-</div>
+  ## OBJECTIVE
+  <p>Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</p>
 
-<div align="center">
-  <h3>Technical Skills</h3>
+  ## WORK EXPERIENCE
+  <p><strong>Pixeleye Co., Ltd.</strong> (Intern) <code>(06/24/2024 ~ 07/19/2024)</code></p>
+
+  ## PORTFOLIO
+  <ul style="text-align: left; display: inline-block;">
+    <li><strong>SW중심대학사업단 AI 오픈소스 전문프로젝트</strong> - 영어발표회 최우수상 수상 (2024.06)</li>
+    <li><strong>2024 새싹 해커톤</strong> - 본선 진출 (서울시, 서울경제진흥원, Google 주최) (2024.07)</li>
+    <li><strong>2024 AI 메이커톤 경진대회</strong> - 최우수상 수상 (충청북도 산업인공지능연구센터 주최) (2024.09)</li>
+    <li><strong>2024 공개 SW 개발자대회</strong> - 본선 진출 및 우수작 선정 (과학기술정보통신부 주최, 정보통신산업진흥원 주관) (2024.11)</li>
+  </ul>
+
+  ## EDUCATION
+  <p><strong>Master's Degree: Chungbuk National University </strong> <code>(03/2024 ~ 08/2025)</code> (Cheongju, Korea)</p>
+  <p><strong>Bachelor's Degree: Chungbuk National University</strong> <code>(03/2018 ~ 02/2024)</code> (Cheongju, Korea)</p>
+  <p><strong>Big leader academy</strong> <code>(06/2022 ~ 08/2022)</code> (changwon, Korea)</p>
+
+  ## ADDITIONAL SKILLS
   <p>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
-    <br>
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
   </p>
-</div>
 
-<div align="center">
-  <h3>GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmjung1997&layout=compact&theme=default&hide_border=true" width="45%"/>
-</div>
+  </div>
 
-<div align="center">
-  <h3>Contact</h3>
-  <p>Email: jmjung1997@gmail.com | <a href="https://hound0528.tistory.com/">Blog</a></p>
-</div>
+  <div align="center">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmjung1997&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api?username=jmjung1997&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmjung1997&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-<div align="center">
+    <!-- Hit counter -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjung1997&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+  </div>
+
   <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=30&section=footer&text=&fontSize=0" width="100%"/>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
+  </div>
 </div>
