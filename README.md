@@ -64,7 +64,7 @@
 
 - **IEEE Internet of Things Journal** - "IoT and AI Systems for Enhancing Bee Colony Strength in Precision Beekeeping: A Survey and Future Research Directions", Kyungchang Jeong†, Hongseok Oh†, Jaemin Jeong,*et al.*
 
-- **IEEE BIBM 2024** (Accepted) - "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine", Kyungchang Jeong, Minji Kim, Jaemin Jeong, *et al.*
+- **IEEE BIBM 2024**  - "A Two-stage AI Framework to Detect and Classify White Blood Cells for Supporting Diseases Diagnosis in Veterinary Medicine", Kyungchang Jeong, Minji Kim, Jaemin Jeong, *et al.*
 
 - **한국정보기술학회논문지 21(12)** - "감정 데이터를 활용한 딥러닝 기반 돈육가격 예측 연구", 정재민, 정경창, 이의종*, 외 
 
