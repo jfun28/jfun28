@@ -95,10 +95,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jmjung1997&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmjung1997&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-    <!-- Hit counter -->
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjung1997&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-  </div>
-
+  
   <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
