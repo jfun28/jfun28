@@ -39,7 +39,6 @@
    ## EDUCATION
   <p><strong>Master's Degree: Chungbuk National University </strong> <code>(03/2024 ~ 08/2025)</code> (Cheongju, Korea)</p>
   <p><strong>Bachelor's Degree: Chungbuk National University</strong> <code>(03/2018 ~ 02/2024)</code> (Cheongju, Korea)</p>
-  <p><strong>Big leader academy</strong> <code>(06/2022 ~ 08/2022)</code> (changwon, Korea)</p>
 
 
   ## PORTFOLIO
