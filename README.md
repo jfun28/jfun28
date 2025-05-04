@@ -34,7 +34,7 @@
   <br><br>
 
   ## OBJECTIVE
-  <p>Studying and applying AI and data science in real-world applications, focusing on machine learning, deep learning, and backend development.</p>
+  <p>Experienced in applying AI and data science to real-world applications, with a focus on machine learning, deep learning, and backend development.</p>
 
    ## EDUCATION
   <p><strong>Master's Degree: Chungbuk National University </strong> <code>(03/2024 ~ 08/2025)</code> (Cheongju, Korea)</p>
