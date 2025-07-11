@@ -11,12 +11,12 @@
   <br>
   <!-- Contact Info -->
   <span>
-    <a href="https://github.com/jmjung1997">
+    <a href="https://github.com/jfun28">
       <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
     </a>
   </span>
   <span>
-    <a href="mailto:jmjung1997@gmail.com">
+    <a href="mailto:jfun28@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=Gmail&logoColor=white"/>
     </a>
   </span>
@@ -90,9 +90,9 @@
 
   <div align="center">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmjung1997&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
-    <img src="https://github-readme-stats.vercel.app/api?username=jmjung1997&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmjung1997&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfun28&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api?username=jfun28&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
   
   <!-- Footer -->
