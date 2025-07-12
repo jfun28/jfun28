@@ -91,14 +91,14 @@
   </div>
 
 <div align="center">
-    <a href="https://solved.ac/hound0528">
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjung1997)](https://solved.ac/jmjung1997/)
+    <a href="https://solved.ac/jmjung1997">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjung1997" alt="Solved.ac Profile for hound0528"/>
     </a>
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-  
-  <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+  
+    <div align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,30:C6538C,60:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
+    </div>
 </div>
