@@ -92,7 +92,7 @@
 
 <div align="center">
     <a href="https://solved.ac/hound0528">
-      <img src="https://bja-arena-prod.s3.ap-northeast-2.amazonaws.com/images/logo/tier/hound0528.svg" width="450px" />
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjung1997)](https://solved.ac/jmjung1997/)
     </a>
     <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
