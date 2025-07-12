@@ -92,9 +92,9 @@
 
   <div align="center">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfun28&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjung1997" alt="Solved.ac Profile for jmjung1997"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfun28&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width="45%" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjung1997" alt="Solved.ac Profile for Jaemin" width="45%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jfun28&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%" />
 
   
   <!-- Footer -->
