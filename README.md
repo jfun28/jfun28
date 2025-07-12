@@ -58,6 +58,7 @@
 
 <details>
 <summary>Publications & Conferences</summary>
+  
 - **Computers in Biology and Medicine** - " Application of Explainable Artificial Intelligence for personalized childhood weight management using IoT data", Jaemin Jeong* 외
   
 - **KCSE conference 2025** - "Infection rate calculation framework based on a hierarchical K-means clustering", 정재민,이의종* 외
