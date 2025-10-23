@@ -37,18 +37,80 @@
   <p>Experienced in applying AI and data science to real-world applications, with a focus on machine learning, deep learning, and backend development.</p>
 
 
-  ## PORTFOLIO
-  <details>
-  <summary>Detail</summary> 
-  <ul style="text-align: left; display: inline-block;">
-    <li><strong>2024년 데이터-AI를 활용한 물가 예측 경진대회:농산물 가격을 중심으로</strong> - Private score 상위 10% (2024.10)</li>
-    <li><strong>2023년 캡스톤 디자인</strong> - 우수상 수상 (2023.11)</li>
-    <li><strong>2022년 빅리더 AI 아카데미</strong> - 표창상 수상 (2022.10)</li>
-    <li><strong>정보처리기사</strong> - 기사 (2023.11)</li>
-    <li><strong>데이터 분석 준전문가</strong> - 준전문가 (2024.11)</li>
-  </ul>
-  </details>
-      
+ ## 📌 Portfolio
+
+---
+
+### 🎓 석사 산학 프로젝트 (2023.09 ~ 2025.01)  
+**설명 가능한 AI를 활용한 개인 맞춤형 체중 변화 예측 (제1저자, SCIE 게재)**  
+라이프로그 데이터를 기반으로 개인의 체중 변화를 예측하고, XAI 기법으로 예측 근거를 설명하는 개인 맞춤형 헬스케어 프레임워크 개발
+
+**기술 스택**  
+`#XAI` `#WGAN` `#TabNet` `#XGBoost` `#개인맞춤헬스케어`
+
+**핵심 성과**  
+- WGAN 기반 합성데이터 생성으로 **라벨 불균형 문제 해결**  
+- TabNet Encoding + XGBoost **Hybrid 모델 구조로 성능 10% 향상**  
+- TabNet Mask + SHAP **교차 설명으로 예측 근거 투명성 확보**  
+- **SCIE급 국제 저널 _Computers in Biology and Medicine_ 게재 (1저자)**
+
+---
+
+### 🏫 빅리더 AI 아카데미 (2022.06 ~ 2022.09)  
+**딥러닝 기반 고용위기 지역 예측 및 대시보드 구축**
+
+**기술 스택**  
+`#LSTM` `#Informer` `#Tensorflow` `#Tableau` `#고용빅데이터`
+
+**핵심 성과**  
+- 피보험자 수 예측을 위한 **시계열 모델(ARIMA, LSTM, INFORMER) 비교 분석**  
+- 23개 변수 데이터 수집·전처리 및 **피보험자 후행 지표 도출**  
+- 최종 LSTM 모델 적용 후 고용위기 예측 성능 개선  
+- Tableau 기반 **시각 대시보드 개발**
+- **한국평가데이터 표창 수상**
+
+---
+
+### 🧬 수의과대학 공동연구 (2024.07 ~ 2025.01)  
+**폐 감염 범위 정량화 프로그램 (제2저자, SCIE 게재)**
+
+**기술 스택**  
+`#K-means` `#Segmentation` `#병리 이미지` `#H&E` `#PyQt`
+
+**핵심 성과**  
+- K-means 기반 감염 부위 자동 분할 및 **정량적 감염률 산출**  
+- Patch 기술로 **대용량 병리 이미지 처리 속도 80% 개선**  
+- PyQt 기반 **GUI 병리 분석 프로그램 개발**
+- **SCIE 저널 _Software X_ 게재 (2저자)**
+
+---
+
+### 🍳 졸업작품 프로젝트 (2023.01 ~ 2023.11)  
+**AI 기반 식재료 탐지 및 레시피 추천 시스템 (우수상 수상)**
+
+**기술 스택**  
+`#YOLOv8` `#TF-IDF` `#Word2Vec` `#Flask`
+
+**핵심 성과**  
+- YOLOv8 기반 식재료 탐지 모델 성능 **13% 향상**  
+- Word2Vec + TF-IDF로 **재료 중요도 임베딩**  
+- Flask 웹 서비스 구현 및 전시회 **우수상 수상**
+
+---
+
+### 📈 산학 연구 프로젝트 (2023.07 ~ 2023.12)  
+**뉴스 감정 분석 기반 돈육 도매가격 예측 (제1저자, KCI 논문)**
+
+**기술 스택**  
+`#LSTM` `#SentimentAnalysis` `#GRU` `#시계열예측`
+
+**핵심 성과**  
+- 뉴스 감성점수 + 시계열 결합 모델로 **예측 성능 향상(MAE 216.87)**  
+- 네이버 뉴스 크롤링 + CLOVA Sentiment API 기반 감정 점수 산출  
+- LSTM/GRU 모델 비교 및 예측 윈도우 최적화  
+- **KCI 급 한국정보기술학회 논문 게재 (1저자)**
+
+---
 
 ## Academic Experience
 
